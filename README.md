@@ -4,10 +4,10 @@ This Weather Application is a JavaScript-based project that provides real-time w
 ## Features
 
     **Real-time Weather Data**: Fetches the current weather information for any specified location.
-    **Search Functionality**: Users can search for the weather in any city worldwide.
-    **Temperature Display**: Displays the temperature in both Celsius and Fahrenheit.
-    **Weather Details**: Provides additional weather information, including humidity, wind speed, and weather conditions.
-    **Responsive Design**: The app is designed to be responsive and works well on various screen sizes, including mobile devices.
+    Search Functionality: Users can search for the weather in any city worldwide.
+    Temperature Display: Displays the temperature in both Celsius and Fahrenheit.
+    Weather Detail: Provides additional weather information, including humidity, wind speed, and weather conditions.
+    Responsive Design: The app is designed to be responsive and works well on various screen sizes, including mobile devices.
 
 ## Technologies Used
 
